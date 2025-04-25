@@ -25,7 +25,7 @@
 *   **Giao thức:** HTTP, SPI.
 
 ## Cấu trúc thư mục
-
+**Lưu ý: những code liên quan chỉ có ở Repo GitHub
 ```
 .
 ├── flowchart/               # Chứa các file sơ đồ (.drawio: ERD, Khối, Mạch, Thuật toán)
@@ -147,6 +147,7 @@
 *   **Trường:** ĐH Sư phạm Kỹ thuật TP.HCM
 *   **Khoa:** Công nghệ Thông tin
 *   **Giảng viên hướng dẫn:** ThS. Đinh Công Đoan
+*   **GitHub:** https://github.com/darktheDE/projectIOT04_Group25
 *   **Sinh viên thực hiện:**
     *   Phan Trọng Quí (23133061)
     *   Phan Trọng Phú (23133056)
