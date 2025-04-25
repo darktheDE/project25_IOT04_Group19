@@ -25,7 +25,7 @@
 *   **Giao thức:** HTTP, SPI.
 
 ## Cấu trúc thư mục
-**Lưu ý: những code liên quan chỉ có ở Repo GitHub
+**Lưu ý:** những code liên quan chỉ có ở Repo GitHub
 ```
 .
 ├── flowchart/               # Chứa các file sơ đồ (.drawio: ERD, Khối, Mạch, Thuật toán)
