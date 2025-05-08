@@ -1,0 +1,6 @@
+1 sơ đồ đấu dây ( dài bằng 1 tờ A4, cao 0.75 tờ A4) , 
+https://www.canva.com/design/DAGlbL9n2Ys/f18pTZ1r6OUdTuARWKJQRw/edit
+2 là datasheet nodemcu(dài 0.35 A4, rộng 0.8 A4) , 
+
+3 là ảnh thành viên nhóm trong canva (ychang ảnh nodemcu)
+https://www.canva.com/design/DAGmxuB1nxc/8pYIzMpJspewgxS3JQw9WA/edit
